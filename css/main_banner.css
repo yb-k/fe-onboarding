@@ -1,0 +1,78 @@
+/* 전체 */
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+/* 메인 배너 */
+#side_View img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#side_View a {
+    text-decoration-line: none; /* a태그 밑줄 제거 */
+}
+
+#side_View a span {
+    position: absolute; 
+    top: -1px; 
+    right: -21px; 
+    display: block; 
+    width: 16px; 
+    height: 16px; 
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -933px -74px no-repeat;
+}
+
+
+
+
+#orange_banner {
+    list-style: none; 
+    width: 391px; 
+    height: 136px; 
+    z-index: 10; 
+    box-sizing: border-box; 
+    padding: 73px 0 0 39px; 
+    position: absolute; 
+    top: 220px; 
+    left: 380px; 
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -10px -9px no-repeat;
+}
+
+#orange_banner li {
+    float: left;
+    margin: 0px 20px 20px 20px;
+    font-size: 24px; 
+    color: #ffffff; 
+}
+
+#orange_banner li a {
+    text-decoration-line: none; /* a태그 밑줄 제거 */
+    position: absolute; 
+
+}
+
+#orange_banner li #a1{
+    color: transparent;
+    top: 37px;
+    left: 55px;
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -834px -10px no-repeat;
+}
+
+#orange_banner li #a2{
+    color: transparent;
+    top: 37px;
+    left: 135px;
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -868px -10px no-repeat;
+}
+
+#orange_banner li #a3{
+    color: transparent;
+    top: 37px;
+    left: 305px;
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -868px -10px no-repeat;
+}
+
