@@ -3,6 +3,8 @@
 
 ## 1. 화면 클론 코딩
 
+## 중요!! CHATGPT와 같은 AI 사용 금지
+
 클론 코딩 페이지 : [신한은행 공식홈페이지](https://www.shinhan.com/index.jsp)
 
 작업 순서
