@@ -76,3 +76,41 @@
     background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro_cloud.png) 0 0 no-repeat;
 }
 
+
+
+
+.dirt_box {
+    position: absolute;
+    top: 220px;
+}
+
+#prev_btn {
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -474px -145px no-repeat;
+
+    width: 20px;
+    height: 37px;
+    float: left;
+    margin-left: 50px;
+}
+
+#next_btn {
+    position: absolute;
+    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -504px -145px no-repeat;
+    width: 20px;
+    height: 37px;
+    left: 1750px; 
+}
+
+#prev_btn a {
+    color: transparent;
+}
+
+#next_btn a {
+    color: transparent;
+}
+
+
+
+#mian_quick_menu {
+    
+}
