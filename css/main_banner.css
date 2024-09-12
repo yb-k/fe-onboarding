@@ -145,3 +145,42 @@
 #main_quick_menu li a {
     color: #777;
 }
+
+
+#indicator_box {
+    position: absolute;
+    bottom: 53.5%;
+    right: 50%;
+    margin-right: -364px;
+    z-index: 10;
+    overflow: hidden;
+}
+
+#indicator_box span {
+    width: 220px;
+    float: left;
+    text-align: right;
+}
+
+#indicator_box #indicator #slider1,#slider2,#slider3,#slider4,#slider5 {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-left: 10px;
+    text-indent: -1000em;
+    border-radius: 6px;
+    background: #bebebe;
+    overflow: hidden;
+}
+
+
+#indicator_box #indicator #slider_play {
+    color: transparent;
+    float: right;
+    margin-top: 2px;
+    margin-left: 14px;
+    width: 12px;
+    height: 12px;
+    background: url(../img/img_intro.png) -864px -74px no-repeat;
+    overflow: hidden;
+}
