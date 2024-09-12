@@ -111,6 +111,37 @@
 
 
 
-#mian_quick_menu {
-    
+#main_quick_menu {
+    position: absolute;
+    z-index: 10;
+    top: 378px;
+    left: 340px;
+}
+
+#main_quick_menu li {
+    display: inline; /* li 요소 가로배치 */
+    list-style: none;
+    margin: auto;
+    position: relative;
+    float: left;
+    margin-right: 21px;
+}
+
+#main_quick_menu li:first-child::before {
+    display: none;
+}
+
+#main_quick_menu li:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: -10px;
+    width: 1px;
+    height: 5px;
+    background: #abacae;
+}
+
+#main_quick_menu li a {
+    color: #777;
 }
