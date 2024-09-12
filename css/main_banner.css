@@ -23,7 +23,7 @@
     display: block; 
     width: 16px; 
     height: 16px; 
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -933px -74px no-repeat;
+    background: url(../img/img_intro.png) -933px -74px no-repeat;
 }
 
 
@@ -39,7 +39,7 @@
     position: absolute; 
     top: 220px; 
     left: 380px; 
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -10px -9px no-repeat;
+    background: url(../img/img_intro.png) -10px -9px no-repeat;
 }
 
 #orange_banner li {
@@ -59,21 +59,21 @@
     color: transparent;
     top: 37px;
     left: 55px;
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -834px -10px no-repeat;
+    background: url(../img/img_intro.png) -834px -10px no-repeat;
 }
 
 #orange_banner li #a2{
     color: transparent;
     top: 37px;
     left: 135px;
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -868px -10px no-repeat;
+    background: url(../img/img_intro.png) -868px -10px no-repeat;
 }
 
 #orange_banner li #a3{
     color: transparent;
     top: 37px;
     left: 225px;
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro_cloud.png) 0 0 no-repeat;
+    background: url(../img/img_intro_cloud.png) 0 0 no-repeat;
 }
 
 
@@ -85,7 +85,7 @@
 }
 
 #prev_btn {
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -474px -145px no-repeat;
+    background: url(../img/img_intro.png) -474px -145px no-repeat;
 
     width: 20px;
     height: 37px;
@@ -95,7 +95,7 @@
 
 #next_btn {
     position: absolute;
-    background: url(https://image.shinhan.com/rib2017/images/hpe/main/img_intro.png) -504px -145px no-repeat;
+    background: url(../img/img_intro.png) -504px -145px no-repeat;
     width: 20px;
     height: 37px;
     left: 1750px; 
