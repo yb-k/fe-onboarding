@@ -5,6 +5,11 @@
 }
 
 /* 메인 배너 */
+#side_View {
+    width: 1680px;
+    height: 456px;
+}
+
 #side_View img {
     position: absolute;
     top: 0;
