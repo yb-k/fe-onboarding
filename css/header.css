@@ -9,10 +9,11 @@
 
 #tab {
     position: absolute;
-    left: 36%;
+    left: 39%;
     width: 1449px;
     height: 53px;
 }
+
 
 #tab li{
     display: inline; /* li 요소 가로배치 */
@@ -49,7 +50,7 @@
 #search {
     position: absolute;
     top: 16%;
-    right: 30.5%;
+    right: 20.5%;
      width: 19px;
     height: 18px;
     background: url(../img/img_intro.png) -940px -10px no-repeat;
@@ -69,7 +70,7 @@
     border: 1px solid #b2b2b2;
 
     left:29.5%;
-    bottom: 50%;
+    bottom: 48%;
     width: 64px;
     height: 22px;
     text-align: center;
@@ -81,7 +82,7 @@
 
 #logo_tab ul {
     position: absolute;
-    left: 50%;
+    left: 55%;
     top: 15%;
 }
 
@@ -104,5 +105,5 @@
     width: 50%;
     height: 100%;
     top: 38%;
-    right: -17.8%;
+    right: -26.8%;
 }
