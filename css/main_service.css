@@ -4,6 +4,7 @@
     bottom: -10%;
     left: 19%;
     position: absolute;
+    z-index: 3;
 }
 
 #main_service h2 {
