@@ -1,0 +1,233 @@
+#main_service {
+    height: 156px;
+    width: 100%;
+    bottom: -10%;
+    left: 19%;
+    position: absolute;
+    z-index: 3;
+}
+
+#main_service h2 {
+    position: relative;
+    top: 12%;
+    color: #333333;
+    font-size: 18px;
+    font-weight:400;
+}
+#main_service a {
+    color: #777777;
+}
+
+#main_service #main_fngroup li {
+    list-style: none;
+
+}
+#main_service li a {
+    text-decoration-line: none;
+}
+
+#main_service #main_fngroup {
+    position: absolute;
+    border: 4px solid #e6e3e2;
+    overflow: hidden;
+    width: 58%;
+    height: 66.5px;
+}
+
+#main_service #main_fngroup li {
+    position:relative;
+    top: 35%;
+    left: -4%;
+    display: inline; 
+    padding: 10px 50px;
+    font-size: 18px;
+}
+#main_service #main_fngroup a {
+    color: #555555;
+    font-size: 18px;
+}
+
+#main_deposit {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 35%;
+    right: 17%;
+    background: url(../img/img_intro.png) -902px -44px no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+#main_auto {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 35%;
+    right: 17%;
+    background: url(../img/img_intro.png) -902px -44px no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+#main_charge {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 35%;
+    right: 17%;
+    background: url(../img/img_intro.png) -902px -44px no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+#main_trade {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 35%;
+    right: 17%;
+    background: url(../img/img_intro.png) -902px -44px no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+#main_see {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 35%;
+    right: 17%;
+    background: url(../img/img_intro.png) -902px -44px no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+#main_service #mns_tab {
+    position: absolute;
+    top: 30%;
+    left: 57%;
+    width: 100%;
+    list-style: none;
+    color: #343434;
+}
+
+
+.mns_more {
+    color: transparent;
+    position: absolute;
+    content: "";
+    bottom: 44%;
+    left: 3%;
+    width: 10px;
+    height: 6px;
+    background: url(../img/img_intro.png) -927px -44px no-repeat;
+}
+
+/* 뉴스 배너 */
+.news_area {
+    height: 156px;
+    width: 100%;
+    top: 85%;
+    left: 0%;
+    position: relative;
+}
+
+
+
+#new_alert {
+    position: absolute;
+    width: 100px;
+    height: 29px;
+    line-height: 28px;
+    border: 1px solid #bfc7d0;
+    border-bottom: 1px solid white;
+    text-align: center;
+    text-decoration-line: none; /* a태그 밑줄 제거 */
+    background: white;
+}
+#security_news {
+    position: absolute;
+    width: 100px;
+    height: 29px;
+    line-height: 28px;
+    border: 1px solid #bfc7d0;
+    background: #e0e8f0;
+    left: 5.9%;
+    text-align: center;
+    text-decoration-line: none; /* a태그 밑줄 제거 */
+}
+
+#notices {
+    position: absolute;
+    top: 32%;
+    left: -2%;
+    color: #777;
+    font-size: 14px;
+    margin: 0 auto;
+}
+
+
+#notices li {
+    list-style: none;
+    line-height: 160%;
+}
+
+#notices li span {
+    position: absolute;
+    right: -96%;
+    color: #a0a0a0;
+}
+
+
+.news_area #news_more a {
+    color: transparent;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 71.8%;
+    top: 5%;
+    background: url(../img/img_intro.png) -872px -44px no-repeat;
+}
+
+
+.service {
+    color: #333333;
+    position: relative;
+    left: 35%;
+    bottom: 20%;
+}
+
+.service h2 {
+    position: relative;
+    left: 0%;
+    font-size: 18px;
+}
+
+.service ul {
+    display: inline; 
+    line-height: 160%;
+}
+
+.service ul:nth-child(2) {
+    position: absolute;
+    left: -2.3%;
+    top: 96%;
+}
+
+.service ul:nth-child(3) {
+    position: absolute;
+    left: 3%;
+    top: 96%;
+}
+
+.service ul:nth-child(4) {
+    position: absolute;
+    left: 11%;
+    top: 96%;
+}
+
+.service ul li {
+    list-style: none;
+    color: #888888;
+    font-size: 14px;
+}
